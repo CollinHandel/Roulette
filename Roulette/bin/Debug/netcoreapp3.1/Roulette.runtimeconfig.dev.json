@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\chimp\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\chimp\\.nuget\\packages"
+    ]
+  }
+}

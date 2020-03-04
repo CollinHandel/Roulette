@@ -1,0 +1,11 @@
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Roulette\bin\Debug\netcoreapp3.1\Roulette.exe
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Roulette\bin\Debug\netcoreapp3.1\Roulette.deps.json
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Roulette\bin\Debug\netcoreapp3.1\Roulette.runtimeconfig.json
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Roulette\bin\Debug\netcoreapp3.1\Roulette.runtimeconfig.dev.json
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Roulette\bin\Debug\netcoreapp3.1\Roulette.dll
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Roulette\bin\Debug\netcoreapp3.1\Roulette.pdb
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Roulette\obj\Debug\netcoreapp3.1\Roulette.csprojAssemblyReference.cache
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Roulette\obj\Debug\netcoreapp3.1\Roulette.AssemblyInfoInputs.cache
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Roulette\obj\Debug\netcoreapp3.1\Roulette.AssemblyInfo.cs
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Roulette\obj\Debug\netcoreapp3.1\Roulette.dll
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Roulette\obj\Debug\netcoreapp3.1\Roulette.pdb
